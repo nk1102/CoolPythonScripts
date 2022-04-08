@@ -1,7 +1,7 @@
 
 # cool turtle like shape
 # created by Nikunj
-
+# Python
 from turtle import *
 bgcolor('black')
 speed(0)
