@@ -1,5 +1,6 @@
 
 # Cool -shapes 16
+## New has been created !!
 import turtle
 import colorsys
 t = turtle.Turtle()
