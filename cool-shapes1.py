@@ -3,13 +3,13 @@
 # created by Nikunj
 # Python
 from turtle import *
-bgcolor('black')
+bgcolor('white')
 speed(0)
 hideturtle()
 for i in range(200):
-    color('red')
+    color('black')
     circle(i)
-    color('orange')
+    color('red')
     circle(i*0.8)
     right(3)
     forward(3)
