@@ -7,9 +7,9 @@ t.speed(30)
 
 for i in range(120):
     t.color(colors[i%6])
-    t.fd(i*5)
+    t.fd(i*8)
     t.left(200)
-    t.width(2)
+    t.width(0.9)
 
 # Star shapes
 #
