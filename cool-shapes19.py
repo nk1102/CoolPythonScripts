@@ -11,8 +11,8 @@ t.pensize(1)
 hue = 0
 t.hideturtle()
 
-for i in range(600):
-    color = colorsys.hsv_to_rgb(hue,0.6,0.8)
+for i in range(200):
+    color = colorsys.hsv_to_rgb(hue,0.89193499,0.877733)
     t.pencolor(color)
 
 # updated the for in range method
