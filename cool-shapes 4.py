@@ -15,6 +15,6 @@ for i in range(302):
     t.color(c)
     t.left(154)
     t.forward(i)
-    for j in range(3):
+    for j in range(5):
         t.left(55)
         t.forward(i)
