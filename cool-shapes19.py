@@ -16,3 +16,9 @@ for i in range(400):
     t.pencolor(color)
 
 # updated the for in range method
+    t.fd(200)
+    t.rt(91)
+    t.circle(59)
+    hue  += 0.009
+
+t.exitonclick()
